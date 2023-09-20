@@ -1,0 +1,6 @@
+public
+exampleSite/public
+exampleSite/resources
+node_modules
+*.lock
+florverde.github.io.Rproj
