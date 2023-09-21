@@ -1,3 +1,5 @@
+<h1 align=center>Hugo Scroll 📜 <a href="https://zjedi.github.io/hugo-scroll/" rel="nofollow">Demo</a></h1>
+
 Clean, responsive, single-page [Hugo](https://gohugo.io/) website theme.
 
 [![hugo-scroll](https://img.shields.io/badge/Hugo--Themes-HugoScroll-blue)](https://themes.gohugo.io/themes/hugo-scroll/)

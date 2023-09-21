@@ -1,2 +1,6 @@
-florverde.github.io.Rproj
+public
+exampleSite/public
+exampleSite/resources
+node_modules
+*.lock
 .Rproj.user
