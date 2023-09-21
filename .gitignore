@@ -4,3 +4,4 @@ exampleSite/resources
 node_modules
 *.lock
 .Rproj.user
+florverde.github.io.Rproj
